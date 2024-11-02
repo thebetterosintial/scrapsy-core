@@ -1,0 +1,49 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node modules
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dist and build outputs
+dist
+build
+out
+*.tsbuildinfo
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Coverage and test reports
+coverage/
+.nyc_output/
+junit.xml
+
+# Logs
+logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional: Yarn integrity file
+.yarn-integrity
+
+# Optional: Next.js
+.next/
+out/
+
+# Optional: Production bundle
+build/Release
