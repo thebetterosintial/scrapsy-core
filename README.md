@@ -2,10 +2,11 @@
 
 Scrapsy AI is a powerful scraping tool that uses AI to intelligently extract and process web content.
 
-### Features
+### Features/Roadmap
 
 -   [x] Smart Web Scraping
-    -   [x] URL-based content extraction
+    -   [x] Project setup
+    -   [ ] URL-based content extraction
     -   [ ] AI-guided content location based on prompts
     -   [ ] Custom selectors and patterns
 
