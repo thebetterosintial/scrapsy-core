@@ -32,6 +32,12 @@ Scrapsy AI is a powerful scraping tool that uses AI to intelligently extract and
     -   [ ] Custom data transformations
     -   [ ] Webhook-based data routing
 
+-   [ ] User Management
+    -   [ ] User authentication
+    -   [ ] User roles and permissions
+    -   [ ] Connecting payment providers
+    -   [ ] Billing and usage tracking
+
 ## Getting Started
 
 1. Clone the repository
